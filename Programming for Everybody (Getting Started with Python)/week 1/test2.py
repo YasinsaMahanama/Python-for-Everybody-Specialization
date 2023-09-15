@@ -1,1 +1,1 @@
-printf("I'm Yasinsa")
+print("I'm Yasinsa")
